@@ -1,0 +1,381 @@
+home,away,home_goals,away_goals
+Code FC,Bugs FC,2,0
+Spaghetti Code Villa,Null Pointer United,1,1
+Stack Overflow Rovers,Legacy Code Wednesday,5,1
+Segfault Town,Async Athletic,1,1
+Lambda Albion,Linux Lions,3,0
+Cache Miss County,Recursion Rangers,1,1
+Pythonic Palace,Semicolon Sporting,1,3
+JavaScript Juventus,Kernel Wanderers,2,1
+Regex Rovers,Merge Conflict City,2,1
+Git Push Hotspur,Docker Dynamos,2,2
+Spaghetti Code Villa,Code FC,1,2
+Bugs FC,Legacy Code Wednesday,2,2
+Segfault Town,Null Pointer United,1,2
+Stack Overflow Rovers,Linux Lions,2,1
+Cache Miss County,Async Athletic,4,1
+Lambda Albion,Semicolon Sporting,1,1
+JavaScript Juventus,Recursion Rangers,0,0
+Pythonic Palace,Merge Conflict City,3,2
+Git Push Hotspur,Kernel Wanderers,4,1
+Regex Rovers,Docker Dynamos,2,1
+Code FC,Legacy Code Wednesday,1,1
+Segfault Town,Spaghetti Code Villa,2,0
+Bugs FC,Linux Lions,1,0
+Cache Miss County,Null Pointer United,0,0
+Stack Overflow Rovers,Semicolon Sporting,2,2
+JavaScript Juventus,Async Athletic,1,0
+Lambda Albion,Merge Conflict City,3,4
+Git Push Hotspur,Recursion Rangers,3,2
+Pythonic Palace,Docker Dynamos,0,0
+Regex Rovers,Kernel Wanderers,2,1
+Segfault Town,Code FC,0,2
+Legacy Code Wednesday,Linux Lions,1,0
+Cache Miss County,Spaghetti Code Villa,2,2
+Bugs FC,Semicolon Sporting,0,1
+JavaScript Juventus,Null Pointer United,0,1
+Stack Overflow Rovers,Merge Conflict City,0,1
+Git Push Hotspur,Async Athletic,1,2
+Lambda Albion,Docker Dynamos,1,1
+Regex Rovers,Recursion Rangers,4,2
+Pythonic Palace,Kernel Wanderers,2,1
+Code FC,Linux Lions,4,0
+Cache Miss County,Segfault Town,2,0
+Legacy Code Wednesday,Semicolon Sporting,3,0
+JavaScript Juventus,Spaghetti Code Villa,3,0
+Bugs FC,Merge Conflict City,1,0
+Git Push Hotspur,Null Pointer United,0,2
+Stack Overflow Rovers,Docker Dynamos,2,1
+Regex Rovers,Async Athletic,1,3
+Lambda Albion,Kernel Wanderers,2,1
+Pythonic Palace,Recursion Rangers,1,1
+Cache Miss County,Code FC,4,0
+Linux Lions,Semicolon Sporting,1,0
+JavaScript Juventus,Segfault Town,2,0
+Legacy Code Wednesday,Merge Conflict City,3,4
+Git Push Hotspur,Spaghetti Code Villa,3,1
+Bugs FC,Docker Dynamos,2,4
+Regex Rovers,Null Pointer United,0,0
+Stack Overflow Rovers,Kernel Wanderers,1,1
+Pythonic Palace,Async Athletic,0,5
+Lambda Albion,Recursion Rangers,2,2
+Code FC,Semicolon Sporting,1,0
+JavaScript Juventus,Cache Miss County,3,0
+Linux Lions,Merge Conflict City,1,0
+Git Push Hotspur,Segfault Town,2,0
+Legacy Code Wednesday,Docker Dynamos,0,4
+Regex Rovers,Spaghetti Code Villa,2,0
+Bugs FC,Kernel Wanderers,2,3
+Pythonic Palace,Null Pointer United,3,2
+Stack Overflow Rovers,Recursion Rangers,3,4
+Lambda Albion,Async Athletic,3,0
+JavaScript Juventus,Code FC,0,1
+Semicolon Sporting,Merge Conflict City,1,1
+Git Push Hotspur,Cache Miss County,2,0
+Linux Lions,Docker Dynamos,2,3
+Regex Rovers,Segfault Town,1,1
+Legacy Code Wednesday,Kernel Wanderers,1,3
+Pythonic Palace,Spaghetti Code Villa,2,1
+Bugs FC,Recursion Rangers,1,0
+Lambda Albion,Null Pointer United,1,0
+Stack Overflow Rovers,Async Athletic,2,1
+Code FC,Merge Conflict City,3,0
+Git Push Hotspur,JavaScript Juventus,3,0
+Semicolon Sporting,Docker Dynamos,1,0
+Regex Rovers,Cache Miss County,2,0
+Linux Lions,Kernel Wanderers,1,3
+Pythonic Palace,Segfault Town,0,1
+Legacy Code Wednesday,Recursion Rangers,0,1
+Lambda Albion,Spaghetti Code Villa,3,0
+Bugs FC,Async Athletic,0,0
+Stack Overflow Rovers,Null Pointer United,3,0
+Git Push Hotspur,Code FC,1,0
+Merge Conflict City,Docker Dynamos,2,1
+Regex Rovers,JavaScript Juventus,3,0
+Semicolon Sporting,Kernel Wanderers,1,3
+Pythonic Palace,Cache Miss County,1,0
+Linux Lions,Recursion Rangers,0,2
+Lambda Albion,Segfault Town,0,2
+Legacy Code Wednesday,Async Athletic,1,0
+Stack Overflow Rovers,Spaghetti Code Villa,2,0
+Bugs FC,Null Pointer United,1,1
+Code FC,Docker Dynamos,4,1
+Regex Rovers,Git Push Hotspur,1,1
+Merge Conflict City,Kernel Wanderers,1,2
+Pythonic Palace,JavaScript Juventus,4,2
+Semicolon Sporting,Recursion Rangers,0,0
+Lambda Albion,Cache Miss County,3,0
+Linux Lions,Async Athletic,0,1
+Stack Overflow Rovers,Segfault Town,3,1
+Legacy Code Wednesday,Null Pointer United,2,2
+Bugs FC,Spaghetti Code Villa,4,3
+Regex Rovers,Code FC,3,2
+Docker Dynamos,Kernel Wanderers,1,2
+Pythonic Palace,Git Push Hotspur,2,2
+Merge Conflict City,Recursion Rangers,1,2
+Lambda Albion,JavaScript Juventus,4,0
+Semicolon Sporting,Async Athletic,1,2
+Stack Overflow Rovers,Cache Miss County,4,2
+Linux Lions,Null Pointer United,3,1
+Bugs FC,Segfault Town,0,0
+Legacy Code Wednesday,Spaghetti Code Villa,2,0
+Code FC,Kernel Wanderers,3,1
+Pythonic Palace,Regex Rovers,1,2
+Docker Dynamos,Recursion Rangers,0,0
+Lambda Albion,Git Push Hotspur,3,1
+Merge Conflict City,Async Athletic,1,3
+Stack Overflow Rovers,JavaScript Juventus,3,3
+Semicolon Sporting,Null Pointer United,2,0
+Bugs FC,Cache Miss County,3,2
+Linux Lions,Spaghetti Code Villa,3,2
+Legacy Code Wednesday,Segfault Town,4,0
+Pythonic Palace,Code FC,2,0
+Kernel Wanderers,Recursion Rangers,1,2
+Lambda Albion,Regex Rovers,0,2
+Docker Dynamos,Async Athletic,2,5
+Stack Overflow Rovers,Git Push Hotspur,3,0
+Merge Conflict City,Null Pointer United,2,4
+Bugs FC,JavaScript Juventus,0,1
+Semicolon Sporting,Spaghetti Code Villa,0,0
+Legacy Code Wednesday,Cache Miss County,1,2
+Linux Lions,Segfault Town,3,1
+Code FC,Recursion Rangers,,
+Lambda Albion,Pythonic Palace,,
+Kernel Wanderers,Async Athletic,,
+Stack Overflow Rovers,Regex Rovers,,
+Docker Dynamos,Null Pointer United,,
+Bugs FC,Git Push Hotspur,,
+Merge Conflict City,Spaghetti Code Villa,,
+Legacy Code Wednesday,JavaScript Juventus,,
+Semicolon Sporting,Segfault Town,,
+Linux Lions,Cache Miss County,,
+Lambda Albion,Code FC,,
+Recursion Rangers,Async Athletic,,
+Stack Overflow Rovers,Pythonic Palace,,
+Kernel Wanderers,Null Pointer United,,
+Bugs FC,Regex Rovers,,
+Docker Dynamos,Spaghetti Code Villa,,
+Legacy Code Wednesday,Git Push Hotspur,,
+Merge Conflict City,Segfault Town,,
+Linux Lions,JavaScript Juventus,,
+Semicolon Sporting,Cache Miss County,,
+Code FC,Async Athletic,,
+Stack Overflow Rovers,Lambda Albion,,
+Recursion Rangers,Null Pointer United,,
+Bugs FC,Pythonic Palace,,
+Kernel Wanderers,Spaghetti Code Villa,,
+Legacy Code Wednesday,Regex Rovers,,
+Docker Dynamos,Segfault Town,,
+Linux Lions,Git Push Hotspur,,
+Merge Conflict City,Cache Miss County,,
+Semicolon Sporting,JavaScript Juventus,,
+Stack Overflow Rovers,Code FC,,
+Async Athletic,Null Pointer United,,
+Bugs FC,Lambda Albion,,
+Recursion Rangers,Spaghetti Code Villa,,
+Legacy Code Wednesday,Pythonic Palace,,
+Kernel Wanderers,Segfault Town,,
+Linux Lions,Regex Rovers,,
+Docker Dynamos,Cache Miss County,,
+Semicolon Sporting,Git Push Hotspur,,
+Merge Conflict City,JavaScript Juventus,,
+Code FC,Null Pointer United,,
+Bugs FC,Stack Overflow Rovers,,
+Async Athletic,Spaghetti Code Villa,,
+Legacy Code Wednesday,Lambda Albion,,
+Recursion Rangers,Segfault Town,,
+Linux Lions,Pythonic Palace,,
+Kernel Wanderers,Cache Miss County,,
+Semicolon Sporting,Regex Rovers,,
+Docker Dynamos,JavaScript Juventus,,
+Merge Conflict City,Git Push Hotspur,,
+Bugs FC,Code FC,,
+Null Pointer United,Spaghetti Code Villa,,
+Legacy Code Wednesday,Stack Overflow Rovers,,
+Async Athletic,Segfault Town,,
+Linux Lions,Lambda Albion,,
+Recursion Rangers,Cache Miss County,,
+Semicolon Sporting,Pythonic Palace,,
+Kernel Wanderers,JavaScript Juventus,,
+Merge Conflict City,Regex Rovers,,
+Docker Dynamos,Git Push Hotspur,,
+Code FC,Spaghetti Code Villa,,
+Legacy Code Wednesday,Bugs FC,,
+Null Pointer United,Segfault Town,,
+Linux Lions,Stack Overflow Rovers,,
+Async Athletic,Cache Miss County,,
+Semicolon Sporting,Lambda Albion,,
+Recursion Rangers,JavaScript Juventus,,
+Merge Conflict City,Pythonic Palace,,
+Kernel Wanderers,Git Push Hotspur,,
+Docker Dynamos,Regex Rovers,,
+Legacy Code Wednesday,Code FC,,
+Spaghetti Code Villa,Segfault Town,,
+Linux Lions,Bugs FC,,
+Null Pointer United,Cache Miss County,,
+Semicolon Sporting,Stack Overflow Rovers,,
+Async Athletic,JavaScript Juventus,,
+Merge Conflict City,Lambda Albion,,
+Recursion Rangers,Git Push Hotspur,,
+Docker Dynamos,Pythonic Palace,,
+Kernel Wanderers,Regex Rovers,,
+Code FC,Segfault Town,,
+Linux Lions,Legacy Code Wednesday,,
+Spaghetti Code Villa,Cache Miss County,,
+Semicolon Sporting,Bugs FC,,
+Null Pointer United,JavaScript Juventus,,
+Merge Conflict City,Stack Overflow Rovers,,
+Async Athletic,Git Push Hotspur,,
+Docker Dynamos,Lambda Albion,,
+Recursion Rangers,Regex Rovers,,
+Kernel Wanderers,Pythonic Palace,,
+Linux Lions,Code FC,,
+Segfault Town,Cache Miss County,,
+Semicolon Sporting,Legacy Code Wednesday,,
+Spaghetti Code Villa,JavaScript Juventus,,
+Merge Conflict City,Bugs FC,,
+Null Pointer United,Git Push Hotspur,,
+Docker Dynamos,Stack Overflow Rovers,,
+Async Athletic,Regex Rovers,,
+Kernel Wanderers,Lambda Albion,,
+Recursion Rangers,Pythonic Palace,,
+Code FC,Cache Miss County,,
+Semicolon Sporting,Linux Lions,,
+Segfault Town,JavaScript Juventus,,
+Merge Conflict City,Legacy Code Wednesday,,
+Spaghetti Code Villa,Git Push Hotspur,,
+Docker Dynamos,Bugs FC,,
+Null Pointer United,Regex Rovers,,
+Kernel Wanderers,Stack Overflow Rovers,,
+Async Athletic,Pythonic Palace,,
+Recursion Rangers,Lambda Albion,,
+Semicolon Sporting,Code FC,,
+Cache Miss County,JavaScript Juventus,,
+Merge Conflict City,Linux Lions,,
+Segfault Town,Git Push Hotspur,,
+Docker Dynamos,Legacy Code Wednesday,,
+Spaghetti Code Villa,Regex Rovers,,
+Kernel Wanderers,Bugs FC,,
+Null Pointer United,Pythonic Palace,,
+Recursion Rangers,Stack Overflow Rovers,,
+Async Athletic,Lambda Albion,,
+Code FC,JavaScript Juventus,,
+Merge Conflict City,Semicolon Sporting,,
+Cache Miss County,Git Push Hotspur,,
+Docker Dynamos,Linux Lions,,
+Segfault Town,Regex Rovers,,
+Kernel Wanderers,Legacy Code Wednesday,,
+Spaghetti Code Villa,Pythonic Palace,,
+Recursion Rangers,Bugs FC,,
+Null Pointer United,Lambda Albion,,
+Async Athletic,Stack Overflow Rovers,,
+Merge Conflict City,Code FC,,
+JavaScript Juventus,Git Push Hotspur,,
+Docker Dynamos,Semicolon Sporting,,
+Cache Miss County,Regex Rovers,,
+Kernel Wanderers,Linux Lions,,
+Segfault Town,Pythonic Palace,,
+Recursion Rangers,Legacy Code Wednesday,,
+Spaghetti Code Villa,Lambda Albion,,
+Async Athletic,Bugs FC,,
+Null Pointer United,Stack Overflow Rovers,,
+Code FC,Git Push Hotspur,,
+Docker Dynamos,Merge Conflict City,,
+JavaScript Juventus,Regex Rovers,,
+Kernel Wanderers,Semicolon Sporting,,
+Cache Miss County,Pythonic Palace,,
+Recursion Rangers,Linux Lions,,
+Segfault Town,Lambda Albion,,
+Async Athletic,Legacy Code Wednesday,,
+Spaghetti Code Villa,Stack Overflow Rovers,,
+Null Pointer United,Bugs FC,,
+Docker Dynamos,Code FC,,
+Git Push Hotspur,Regex Rovers,,
+Kernel Wanderers,Merge Conflict City,,
+JavaScript Juventus,Pythonic Palace,,
+Recursion Rangers,Semicolon Sporting,,
+Cache Miss County,Lambda Albion,,
+Async Athletic,Linux Lions,,
+Segfault Town,Stack Overflow Rovers,,
+Null Pointer United,Legacy Code Wednesday,,
+Spaghetti Code Villa,Bugs FC,,
+Code FC,Regex Rovers,,
+Kernel Wanderers,Docker Dynamos,,
+Git Push Hotspur,Pythonic Palace,,
+Recursion Rangers,Merge Conflict City,,
+JavaScript Juventus,Lambda Albion,,
+Async Athletic,Semicolon Sporting,,
+Cache Miss County,Stack Overflow Rovers,,
+Null Pointer United,Linux Lions,,
+Segfault Town,Bugs FC,,
+Spaghetti Code Villa,Legacy Code Wednesday,,
+Kernel Wanderers,Code FC,,
+Regex Rovers,Pythonic Palace,,
+Recursion Rangers,Docker Dynamos,,
+Git Push Hotspur,Lambda Albion,,
+Async Athletic,Merge Conflict City,,
+JavaScript Juventus,Stack Overflow Rovers,,
+Null Pointer United,Semicolon Sporting,,
+Cache Miss County,Bugs FC,,
+Spaghetti Code Villa,Linux Lions,,
+Segfault Town,Legacy Code Wednesday,,
+Code FC,Pythonic Palace,,
+Recursion Rangers,Kernel Wanderers,,
+Regex Rovers,Lambda Albion,,
+Async Athletic,Docker Dynamos,,
+Git Push Hotspur,Stack Overflow Rovers,,
+Null Pointer United,Merge Conflict City,,
+JavaScript Juventus,Bugs FC,,
+Spaghetti Code Villa,Semicolon Sporting,,
+Cache Miss County,Legacy Code Wednesday,,
+Segfault Town,Linux Lions,,
+Recursion Rangers,Code FC,,
+Pythonic Palace,Lambda Albion,,
+Async Athletic,Kernel Wanderers,,
+Regex Rovers,Stack Overflow Rovers,,
+Null Pointer United,Docker Dynamos,,
+Git Push Hotspur,Bugs FC,,
+Spaghetti Code Villa,Merge Conflict City,,
+JavaScript Juventus,Legacy Code Wednesday,,
+Segfault Town,Semicolon Sporting,,
+Cache Miss County,Linux Lions,,
+Code FC,Lambda Albion,,
+Async Athletic,Recursion Rangers,,
+Pythonic Palace,Stack Overflow Rovers,,
+Null Pointer United,Kernel Wanderers,,
+Regex Rovers,Bugs FC,,
+Spaghetti Code Villa,Docker Dynamos,,
+Git Push Hotspur,Legacy Code Wednesday,,
+Segfault Town,Merge Conflict City,,
+JavaScript Juventus,Linux Lions,,
+Cache Miss County,Semicolon Sporting,,
+Async Athletic,Code FC,,
+Lambda Albion,Stack Overflow Rovers,,
+Null Pointer United,Recursion Rangers,,
+Pythonic Palace,Bugs FC,,
+Spaghetti Code Villa,Kernel Wanderers,,
+Regex Rovers,Legacy Code Wednesday,,
+Segfault Town,Docker Dynamos,,
+Git Push Hotspur,Linux Lions,,
+Cache Miss County,Merge Conflict City,,
+JavaScript Juventus,Semicolon Sporting,,
+Code FC,Stack Overflow Rovers,,
+Null Pointer United,Async Athletic,,
+Lambda Albion,Bugs FC,,
+Spaghetti Code Villa,Recursion Rangers,,
+Pythonic Palace,Legacy Code Wednesday,,
+Segfault Town,Kernel Wanderers,,
+Regex Rovers,Linux Lions,,
+Cache Miss County,Docker Dynamos,,
+Git Push Hotspur,Semicolon Sporting,,
+JavaScript Juventus,Merge Conflict City,,
+Null Pointer United,Code FC,,
+Stack Overflow Rovers,Bugs FC,,
+Spaghetti Code Villa,Async Athletic,,
+Lambda Albion,Legacy Code Wednesday,,
+Segfault Town,Recursion Rangers,,
+Pythonic Palace,Linux Lions,,
+Cache Miss County,Kernel Wanderers,,
+Regex Rovers,Semicolon Sporting,,
+JavaScript Juventus,Docker Dynamos,,
+Git Push Hotspur,Merge Conflict City,,
